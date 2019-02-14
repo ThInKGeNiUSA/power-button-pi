@@ -1,5 +1,5 @@
 # power-button-pi
-Installation
+# Installation
 
 Clone down this repo to your Raspberry Pi
 
